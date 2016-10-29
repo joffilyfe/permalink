@@ -33,4 +33,4 @@ module Permalink
   end
 end
 
-ActiveRecord::Base.send(:include, Permalink::ActiveRecord)
+#ActiveRecord::Base.send(:include, Permalink::ActiveRecord)
